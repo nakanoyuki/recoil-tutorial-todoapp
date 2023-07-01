@@ -1,0 +1,11 @@
+.taskField {
+  text-align: left;
+}
+
+.taskField ul {
+  padding-left: 0;
+}
+
+.taskField li {
+  list-style: none;
+}
